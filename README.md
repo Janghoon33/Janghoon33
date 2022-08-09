@@ -16,11 +16,13 @@
 ![Janghoon33's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janghoon33&show_icons=true&theme=radical)
 [![Janghoon33's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Janghoon33&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Janghoon33)
 
+
 🐶🐻 About Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeonjanghun4@gmail.com)](jeonjanghun4@gmail.com)
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/b2c5191c870646589bed49963bf68f5e)](https://www.notion.so/b2c5191c870646589bed49963bf68f5e)
   [![Velog Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/h970303)](https://blog.naver.com/h970303)
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Janghoon33&row=1)](https://github.com/ryo-ma/github-profile-trophy)
