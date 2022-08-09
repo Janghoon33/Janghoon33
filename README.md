@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 
-https://github-readme-stats.vercel.app/api?Janghoon33=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=panda
+![Janghoon33's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janghoon33&show_icons=true&theme=panda)
 [![Janghoon33's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Janghoon33&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Janghoon33)
 
 
