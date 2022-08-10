@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janghoon33&layout=compact&theme=shades-of-purple&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
-🐶🐻 About Me
+🐶 About Me 🐻
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeonjanghun4@gmail.com)](jeonjanghun4@gmail.com)
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/b2c5191c870646589bed49963bf68f5e)](https://www.notion.so/b2c5191c870646589bed49963bf68f5e)
