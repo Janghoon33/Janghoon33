@@ -1,5 +1,5 @@
 
-### Hi I'm Janghoon 👋
+### Hi I'm Janghoon Nice to see u 👋
 
 #### 신입 개발자 / 프론트,백엔드 
 
