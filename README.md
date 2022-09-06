@@ -18,7 +18,7 @@
 
 <h2 align="center"> 🐶 About Me 🐻 </h2>
 
-<p align="center"><a href="https://blog.naver.com/h970303"><img src="https://img.shields.io/badge/ My blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/h970303"/></a> <a href="jeonjanghun4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeonjanghun4@gmail.com"/></a> <a href="[www.notion.so/b2c5191c870646589bed49963bf68f5e](https://www.notion.so/b2c5191c870646589bed49963bf68f5e#014da7b39e8c4c798a5e7b86a616335c)"><img src="[https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/b2c5191c870646589bed49963bf68f5e](https://www.notion.so/b2c5191c870646589bed49963bf68f5e#014da7b39e8c4c798a5e7b86a616335c)"/></p>
+<p align="center"><a href="https://blog.naver.com/h970303"><img src="https://img.shields.io/badge/ My blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/h970303"/></a> <a href="jeonjanghun4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeonjanghun4@gmail.com"/></a> <a href="[www.notion.so/b2c5191c870646589bed49963bf68f5e](https://www.notion.so/b2c5191c870646589bed49963bf68f5e#014da7b39e8c4c798a5e7b86a616335c)"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/b2c5191c870646589bed49963bf68f5e(https://www.notion.so/b2c5191c870646589bed49963bf68f5e#014da7b39e8c4c798a5e7b86a616335c)"/></p>
 
 <br>
 
