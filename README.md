@@ -1,7 +1,7 @@
 
 ### Hi I'm Janghoon, Nice to see u 👋
 
-#### 신입 개발자 / 프론트,백엔드 
+#### 신입 개발자 / 백엔드 
 
 
 <h2 align="center"> 🛠️ My Stacks ⭐</h2>
