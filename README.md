@@ -1,7 +1,7 @@
 
 ### Hi I'm Janghoon, Nice to see u 👋
 
-#### 신입 개발자 / 백엔드 개발자(Java, Spring)
+#### 백엔드 개발자(Java, Spring)
 
 
 <h2 align="center"> 🛠️ My Stacks ⭐</h2>
