@@ -13,11 +13,11 @@
 <p align="center"><a href="https://blog.naver.com/h970303"><img src="https://img.shields.io/badge/ My blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/h970303"/></a>  <a href="https://www.notion.so/b2c5191c870646589bed49963bf68f5e"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Janghoon-s-page-ee84d4dd9b6343a6a4c585d03a914d56"/></p>
 
 <br>
-
+<br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janghoon33&theme=nord_dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Janghoon33&theme=tokyonight)](https://git.io/streak-stats)
-
+<br>
 <br>
 
 ![Janghoon33's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janghoon33&show_icons=true&theme=shades-of-purple)
