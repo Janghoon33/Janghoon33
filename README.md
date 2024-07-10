@@ -28,7 +28,7 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [동기 비동기] (https://blog.naver.com/h970303/223508529243)
 - [Vue create 오류해결방법] (https://blog.naver.com/h970303/223496505281)
 - [Swagger란?] (https://blog.naver.com/h970303/223488831554)
-- [Amazon S3란?] (https://blog.naver.com/h970303/223459956172)
 
