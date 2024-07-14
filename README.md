@@ -28,7 +28,7 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [@RequestBody로 여러개의 객체 받기] (https://blog.naver.com/h970303/223512588498) 
 - [동기 비동기] (https://blog.naver.com/h970303/223508529243)
 - [Vue create 오류해결방법] (https://blog.naver.com/h970303/223496505281)
-- [Swagger란?] (https://blog.naver.com/h970303/223488831554)
 
