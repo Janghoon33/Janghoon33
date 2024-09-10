@@ -28,9 +28,8 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [카카오페이 사태를 통해 알아보는 SHA-256] (https://blog.naver.com/h970303/223579687431)
 - [한글 자음 검색 쿼리문] (https://blog.naver.com/h970303/223568687849)
 - [Git prune] (https://blog.naver.com/h970303/223565693191)
 - [커밋 메세지 규칙] (https://blog.naver.com/h970303/223553573109)
 - [Git stash] (https://blog.naver.com/h970303/223536370064)
-- [useGeneratedKeys] (https://blog.naver.com/h970303/223528700374)
-
