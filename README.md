@@ -28,8 +28,6 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
-- [Javascript 전화번호 정규식] (https://blog.naver.com/h970303/223608862364)
-- [Git merge 취소] (https://blog.naver.com/h970303/223608834820)
-- [Spring Boot @Transactional] (https://blog.naver.com/h970303/223595220858)
-- [카카오페이 사태를 통해 알아보는 SHA-256] (https://blog.naver.com/h970303/223579687431)
-- [한글 자음 검색 쿼리문] (https://blog.naver.com/h970303/223568687849)
+- [Spring Boot BeanUtils] (https://blog.naver.com/h970303/223654920190)
+- [Mybatis 부등호, 비교연산자 사용방법) (https://blog.naver.com/h970303/223619078819)
+- [Spring Boot Bean, DI / IoC] (https://blog.naver.com/h970303/223617310255)
