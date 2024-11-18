@@ -28,6 +28,7 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [@Controller와 @RestController의 차이점] (https://blog.naver.com/h970303/223665497406)
 - [Spring Boot BeanUtils] (https://blog.naver.com/h970303/223654920190)
 - [Mybatis 부등호, 비교연산자 사용방법) (https://blog.naver.com/h970303/223619078819)
 - [Spring Boot Bean, DI / IoC] (https://blog.naver.com/h970303/223617310255)
