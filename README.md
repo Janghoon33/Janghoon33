@@ -28,6 +28,7 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [Spring Boot @Async] (https://blog.naver.com/h970303/223695808164)
 - [Spring Boot 환경 별 설정 분리] (https://blog.naver.com/h970303/223686541142)
 - [@Controller와 @RestController의 차이점] (https://blog.naver.com/h970303/223665497406)
 - [Spring Boot BeanUtils] (https://blog.naver.com/h970303/223654920190)
