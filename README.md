@@ -7,7 +7,7 @@
 
 <p align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=spring,java,html,css,js,py&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=spring,java,vue,react,js,py&theme=light)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=aws,git,mysql,idea,notion,gradle,postman&theme=light)](https://skillicons.dev)
 </p>
 
