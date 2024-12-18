@@ -2,7 +2,7 @@
 ### Hi I'm Janghoon, Nice to see u 👋
 
 ### Back-End Developer from South Korea
-
+<br>
 <h2 align="center"> 🛠️ My Languages & Tools & etc ⭐</h2>
 
 <p align="center">
@@ -10,7 +10,7 @@
   [![My Skills](https://skillicons.dev/icons?i=spring,java,vue,react,js,py&theme=light)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=aws,github,git,mysql,idea,notion,gradle,postman&theme=light)](https://skillicons.dev)
 </p>
-
+<br>
 <h2 align="center"> 🐶 About Me 🐻 </h2>
 
 <p align="center">
@@ -22,7 +22,6 @@
   </a>
 </p>
 
-<br>
 
 
 <br>
