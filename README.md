@@ -3,7 +3,7 @@
 
 ### Back-End Developer from South Korea
 
-<h2 align="center"> 🛠️ My Languages & Tools ⭐</h2>
+<h2 align="center"> 🛠️ My Languages & Tools & etc ⭐</h2>
 
 <p align="center">
   
