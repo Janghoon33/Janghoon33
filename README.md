@@ -27,10 +27,9 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [OSI 7 계층] (https://blog.naver.com/h970303/223715659869)
 - [Git bisect] (https://blog.naver.com/h970303/223708120253)
 - [Spring Boot @Async] (https://blog.naver.com/h970303/223695808164)
 - [Spring Boot 환경 별 설정 분리] (https://blog.naver.com/h970303/223686541142)
 - [@Controller와 @RestController의 차이점] (https://blog.naver.com/h970303/223665497406)
 - [Spring Boot BeanUtils] (https://blog.naver.com/h970303/223654920190)
-- [Mybatis 부등호, 비교연산자 사용방법) (https://blog.naver.com/h970303/223619078819)
-- [Spring Boot Bean, DI / IoC] (https://blog.naver.com/h970303/223617310255)
