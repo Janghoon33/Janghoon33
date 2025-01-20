@@ -27,9 +27,9 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [[Java] 23. 싱글톤(Singleton)] (https://blog.naver.com/h970303/223732153108)
 - [[Spring Boot @Bean] (https://blog.naver.com/h970303/223728249529)
 - [[Java] 22. Enum] (https://blog.naver.com/h970303/223726101742)
 - [TCP/IP Protocol 4 계층] (https://blog.naver.com/h970303/223723736333)
 - [OSI 7 계층] (https://blog.naver.com/h970303/223715659869)
 - [Git bisect] (https://blog.naver.com/h970303/223708120253)
-- [Spring Boot @Async] (https://blog.naver.com/h970303/223695808164)
