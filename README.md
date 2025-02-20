@@ -27,9 +27,9 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [[MySQL] UNSIGNED] (https://blog.naver.com/h970303/223767886682)
 - [[Spring Boot] @Builder, @SuperBuilder] (https://blog.naver.com/h970303/223755905198)
 - [[Spring Boot] Inner class DTO] (https://blog.naver.com/h970303/223750428094)
 - [[Java] 23. 싱글톤(Singleton)] (https://blog.naver.com/h970303/223732153108)
 - [[Spring Boot @Bean] (https://blog.naver.com/h970303/223728249529)
 - [[Java] 22. Enum] (https://blog.naver.com/h970303/223726101742)
-- [TCP/IP Protocol 4 계층] (https://blog.naver.com/h970303/223723736333)
