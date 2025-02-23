@@ -27,6 +27,7 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [GraphQL이란] (https://blog.naver.com/h970303/223770990896)
 - [[MySQL] UNSIGNED] (https://blog.naver.com/h970303/223767886682)
 - [[Spring Boot] @Builder, @SuperBuilder] (https://blog.naver.com/h970303/223755905198)
 - [[Spring Boot] Inner class DTO] (https://blog.naver.com/h970303/223750428094)
