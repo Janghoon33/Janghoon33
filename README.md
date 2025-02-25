@@ -27,6 +27,7 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [@SuppressWarning] (https://velog.io/@janghoon33/SuppressWarning)
 - [GraphQL이란] (https://blog.naver.com/h970303/223770990896)
 - [[MySQL] UNSIGNED] (https://blog.naver.com/h970303/223767886682)
 - [[Spring Boot] @Builder, @SuperBuilder] (https://blog.naver.com/h970303/223755905198)
