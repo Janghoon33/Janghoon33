@@ -27,7 +27,7 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
-- [24. for문 vs Stream] (https://blog.naver.com/h970303/223775654625)
+- [[Java] 24. for문 vs Stream] (https://blog.naver.com/h970303/223775654625)
 - [@SuppressWarning] (https://velog.io/@janghoon33/SuppressWarning)
 - [GraphQL이란] (https://blog.naver.com/h970303/223770990896)
 - [[MySQL] UNSIGNED] (https://blog.naver.com/h970303/223767886682)
