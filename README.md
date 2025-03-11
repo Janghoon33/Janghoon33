@@ -1,7 +1,7 @@
 
-### Hi I'm Janghoon, Nice to see u 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hi+I'm+Janghoon%2C+Nice+to+see+u+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-### Back-End Developer from South Korea
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A95EF7&width=435&lines=I'm+Back-End+Developer+)](https://git.io/typing-svg)
 <br>
 <h2 align="center"> 🛠️ My Languages & Tools & etc ⭐</h2>
 
@@ -21,8 +21,9 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Janghoon-s-page-ee84d4dd9b6343a6a4c585d03a914d56"/>
   </a>
 </p>
+<br>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Janghoon33&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
