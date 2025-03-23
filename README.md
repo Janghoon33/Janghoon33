@@ -26,6 +26,7 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [[Spring Boot] 엔티티 영속성 컨텍스트, 생명주기와 변경감지] (https://blog.naver.com/h970303/223807212802)
 - [[Java] 25. record] (https://blog.naver.com/h970303/223790124653)
 - [[Java] 24. for문 vs Stream] (https://blog.naver.com/h970303/223775654625)
 - [@SuppressWarning] (https://velog.io/@janghoon33/SuppressWarning)
