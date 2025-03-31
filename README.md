@@ -26,6 +26,7 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [[Git] cherry-pick] (https://blog.naver.com/h970303/223816811236)
 - [[Spring Boot] JPA ID 생성] (https://blog.naver.com/h970303/223812350565)
 - [[Spring Boot] 엔티티 영속성 컨텍스트, 생명주기와 변경감지] (https://blog.naver.com/h970303/223807212802)
 - [[Java] 25. record] (https://blog.naver.com/h970303/223790124653)
@@ -36,5 +37,3 @@
 - [[Spring Boot] @Builder, @SuperBuilder] (https://blog.naver.com/h970303/223755905198)
 - [[Spring Boot] Inner class DTO] (https://blog.naver.com/h970303/223750428094)
 - [[Java] 23. 싱글톤(Singleton)] (https://blog.naver.com/h970303/223732153108)
-- [[Spring Boot @Bean] (https://blog.naver.com/h970303/223728249529)
-- [[Java] 22. Enum] (https://blog.naver.com/h970303/223726101742)
