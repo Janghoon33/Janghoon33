@@ -26,6 +26,7 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [[Mybatis] 동적 쿼리 foreach문] (https://blog.naver.com/h970303/223825523139)
 - [[Git] cherry-pick] (https://blog.naver.com/h970303/223816811236)
 - [[Spring Boot] JPA ID 생성] (https://blog.naver.com/h970303/223812350565)
 - [[Spring Boot] 엔티티 영속성 컨텍스트, 생명주기와 변경감지] (https://blog.naver.com/h970303/223807212802)
