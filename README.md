@@ -26,6 +26,7 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [CORS란?] (https://blog.naver.com/h970303/223867030716)
 - [[Mybatis] 동적 쿼리 foreach문] (https://blog.naver.com/h970303/223825523139)
 - [[Git] cherry-pick] (https://blog.naver.com/h970303/223816811236)
 - [[Spring Boot] JPA ID 생성] (https://blog.naver.com/h970303/223812350565)
