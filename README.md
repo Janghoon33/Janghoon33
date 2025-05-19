@@ -26,6 +26,7 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [멱등성이란?] (https://blog.naver.com/h970303/223871022936)
 - [CORS란?] (https://blog.naver.com/h970303/223867030716)
 - [[Mybatis] 동적 쿼리 foreach문] (https://blog.naver.com/h970303/223825523139)
 - [[Git] cherry-pick] (https://blog.naver.com/h970303/223816811236)
