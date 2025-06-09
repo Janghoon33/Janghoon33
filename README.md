@@ -26,6 +26,7 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [PutMapping vs PatchMapping] (https://blog.naver.com/h970303/223893860714)
 - [멱등성이란?] (https://blog.naver.com/h970303/223871022936)
 - [CORS란?] (https://blog.naver.com/h970303/223867030716)
 - [[Mybatis] 동적 쿼리 foreach문] (https://blog.naver.com/h970303/223825523139)
@@ -38,5 +39,3 @@
 - [GraphQL이란] (https://blog.naver.com/h970303/223770990896)
 - [[MySQL] UNSIGNED] (https://blog.naver.com/h970303/223767886682)
 - [[Spring Boot] @Builder, @SuperBuilder] (https://blog.naver.com/h970303/223755905198)
-- [[Spring Boot] Inner class DTO] (https://blog.naver.com/h970303/223750428094)
-- [[Java] 23. 싱글톤(Singleton)] (https://blog.naver.com/h970303/223732153108)
