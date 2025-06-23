@@ -26,6 +26,7 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [[Java] 26.문자열/자르기/분리/찾기] (https://blog.naver.com/h970303/223909264930)
 - [PutMapping vs PatchMapping] (https://blog.naver.com/h970303/223893860714)
 - [멱등성이란?] (https://blog.naver.com/h970303/223871022936)
 - [CORS란?] (https://blog.naver.com/h970303/223867030716)
