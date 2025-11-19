@@ -26,18 +26,6 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
-- [[Java] 27. startsWith(), endsWith()] (https://blog.naver.com/h970303/223915884580)
-- [[Java] 26.문자열/자르기/분리/찾기] (https://blog.naver.com/h970303/223909264930)
-- [PutMapping vs PatchMapping] (https://blog.naver.com/h970303/223893860714)
-- [멱등성이란?] (https://blog.naver.com/h970303/223871022936)
-- [CORS란?] (https://blog.naver.com/h970303/223867030716)
-- [[Mybatis] 동적 쿼리 foreach문] (https://blog.naver.com/h970303/223825523139)
-- [[Git] cherry-pick] (https://blog.naver.com/h970303/223816811236)
-- [[Spring Boot] JPA ID 생성] (https://blog.naver.com/h970303/223812350565)
-- [[Spring Boot] 엔티티 영속성 컨텍스트, 생명주기와 변경감지] (https://blog.naver.com/h970303/223807212802)
-- [[Java] 25. record] (https://blog.naver.com/h970303/223790124653)
-- [[Java] 24. for문 vs Stream] (https://blog.naver.com/h970303/223775654625)
-- [@SuppressWarning] (https://velog.io/@janghoon33/SuppressWarning)
-- [GraphQL이란] (https://blog.naver.com/h970303/223770990896)
-- [[MySQL] UNSIGNED] (https://blog.naver.com/h970303/223767886682)
-- [[Spring Boot] @Builder, @SuperBuilder] (https://blog.naver.com/h970303/223755905198)
+- [[Java] 29. var] (https://blog.naver.com/h970303/224074024364)
+- [[JPA] JPA에 대해서] (https://blog.naver.com/h970303/224040232878)
+- [[Java] 28. final] (https://blog.naver.com/h970303/224019357321)
