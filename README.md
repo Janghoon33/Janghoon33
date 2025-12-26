@@ -24,6 +24,10 @@
 <br>
 
 <br>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{Janghoon33}"/>
+</a>
+<br>
 
 ### Latest Blog Posts 🧑‍💻
 - [[Java] 29. var] (https://blog.naver.com/h970303/224074024364)
