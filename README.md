@@ -30,6 +30,7 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻
+- [HTTP/1.1 , HTTP/2.0] (https://blog.naver.com/h970303/224102799084)
 - [[Java] 29. var] (https://blog.naver.com/h970303/224074024364)
 - [[JPA] JPA에 대해서] (https://blog.naver.com/h970303/224040232878)
 - [[Java] 28. final] (https://blog.naver.com/h970303/224019357321)
