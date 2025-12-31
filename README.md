@@ -13,7 +13,7 @@
 <br>
 <h2> 🐶 About Me 🐻</h2>
 
-  [![box](https://markdown-box-generator.vercel.app/api/box?title=portfolio&author=Author&date=2025-12-31&style=BRUNCH)](https://quickest-bedbug-c07.notion.site/Backend-Developer-a3abd89470fd440b82e263a9c6fa5290?pvs=74)
+  [![box](https://markdown-box-generator.vercel.app/api/box?title=portfolio&author=jh&date=2025-12-31&style=DEFAULT)](https://quickest-bedbug-c07.notion.site/Backend-Developer-a3abd89470fd440b82e263a9c6fa5290?pvs=74)
 
 <br>
 
