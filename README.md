@@ -12,12 +12,9 @@
 </p>
 <br>
 <h2> 🐶 About Me 🐻</h2>
-<p>
-  
-  <a href="https://www.notion.so/b2c5191c870646589bed49963bf68f5e">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Janghoon-s-page-ee84d4dd9b6343a6a4c585d03a914d56"/>
-  </a>
-</p>
+
+  [![box](https://markdown-box-generator.vercel.app/api/box?title=My_portfolio&author=Author&date=2025-12-31&style=BRUNCH)](https://quickest-bedbug-c07.notion.site/Backend-Developer-a3abd89470fd440b82e263a9c6fa5290?pvs=74)
+
 <br>
 
 <br>
