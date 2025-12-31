@@ -8,7 +8,7 @@
 <p align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=spring,java,vue,react,js,py&theme=light)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=aws,github,git,mysql,idea,notion,gradle,postman&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,kafka,github,gitlab,mysql,idea,jenkins,notion,gradle,postman&theme=light)](https://skillicons.dev)
 </p>
 <br>
 <h2 align="center"> 🐶 About Me 🐻 </h2>
