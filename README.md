@@ -7,8 +7,8 @@
 
 <p>
   
-  [![My Skills](https://skillicons.dev/icons?i=spring,java,vue,react,js,py&theme=light)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=aws,kafka,github,gitlab,mysql,idea,jenkins,notion,gradle,postman&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=spring,java,vue,react,js,py,express,nodejs&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,kafka,github,gitlab,mysql,idea,jenkins,notion,gradle,postman,docker,vscode&theme=dark)](https://skillicons.dev)
 </p>
 <br>
 <h2> 🐶 About Me 🐻</h2>
