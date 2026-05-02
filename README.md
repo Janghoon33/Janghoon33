@@ -24,6 +24,7 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻  
+- [[Kotlin] 1. 코틀린의 변수] (https://blog.naver.com/h970303/224272382195)
 - [[Java] 30. 원시타입 vs 참조타입] (https://blog.naver.com/h970303/224189433788)
 - [HTTP/1.1 , HTTP/2.0] (https://blog.naver.com/h970303/224102799084)
 - [[Java] 29. var] (https://blog.naver.com/h970303/224074024364)
