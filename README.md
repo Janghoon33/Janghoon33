@@ -24,7 +24,8 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻  
-	
+
+- [[Kotlin] 코틀린의 type] (https://velog.io/@janghoon33/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-type)
 - [[Kotlin] 코틀린의 연산자] (https://velog.io/@janghoon33/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-%EC%97%B0%EC%82%B0%EC%9E%90)
 - [[Kotlin] 코틀린에서의 null] (https://velog.io/@janghoon33/%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%EC%9D%98-null)
 - [[Kotlin] 코틀린의 변수] (https://velog.io/@janghoon33/%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-%EB%B3%80%EC%88%98)
