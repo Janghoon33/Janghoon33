@@ -31,3 +31,12 @@
 - [[Kotlin] 코틀린의 변수] (https://velog.io/@janghoon33/%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-%EB%B3%80%EC%88%98)
 - [[Java] 30. 원시타입 vs 참조타입] (https://blog.naver.com/h970303/224189433788)
 
+<br>
+
+<a href="https://gitfut.com/Janghoon33">
+  <img
+    src="https://gitfut.com/Janghoon33.png?country=KR"
+    alt="My GitFut card"
+    width="280"
+  />
+</a>
