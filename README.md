@@ -24,12 +24,9 @@
 <br>
 
 ### Latest Blog Posts 🧑‍💻  
+- [OpenAI, GPT-6 Astra 공개] (https://blog.naver.com/h970303/224403042320)
+- [Anthropic, Claude Fable 5.1 / Mythos 5.1 공개] (https://blog.naver.com/h970303/224403037495)
 - [[Kotlin] 코틀린의 조건문] (https://velog.io/@janghoon33/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-%EC%A1%B0%EA%B1%B4%EB%AC%B8)
-- [[Kotlin] 코틀린의 type] (https://velog.io/@janghoon33/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-type)
-- [[Kotlin] 코틀린의 연산자] (https://velog.io/@janghoon33/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-%EC%97%B0%EC%82%B0%EC%9E%90)
-- [[Kotlin] 코틀린에서의 null] (https://velog.io/@janghoon33/%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%EC%9D%98-null)
-- [[Kotlin] 코틀린의 변수] (https://velog.io/@janghoon33/%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-%EB%B3%80%EC%88%98)
-- [[Java] 30. 원시타입 vs 참조타입] (https://blog.naver.com/h970303/224189433788)
 
 <br>
 
